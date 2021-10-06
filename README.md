@@ -5,8 +5,8 @@
 <p>Step 2: download Online_department_management_system and extract zip file.</p>
 <p>Step 3: install composer and laravel 8 in system.</p>
 <p>Step 4: open terminal/git bash in project folder and run the following commands:</p>
-  <p>I: php artisan migrate //this will create all tables in omds database</p>
-  <p>II: php artisan db:seed //this will create default admin, librarian username and password</p>
+  <p style="margin-left: 10px">I: php artisan migrate //this will create all tables in omds database</p>
+  <p style="margin-left: 10px">II: php artisan db:seed //this will create default admin, librarian username and password</p>
 <p>Step 5: run php artisan serve //this will run the application in browser</p>
 
 <h4>Inportant credentials</h4>
